@@ -73,7 +73,7 @@ section::after {
 .container h2 {
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #2aa6ee;
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -111,7 +111,8 @@ section::after {
     font-size: 15px;
     padding: 0 10px;
     z-index: 1;
-    color: #000;
+    font-weight: 400;
+    color: #2aa6ee;
 
 }
 
@@ -171,7 +172,7 @@ section::after {
     cursor: pointer;
     outline: none;
     background: #fff;
-    color: #000;
+    color: #2aa6ee;
     font-weight: 600;
     font-size: 18px;
     border-radius: 2px;
